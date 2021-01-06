@@ -13,8 +13,8 @@ I am currently in the second year of **computer science** at UFPEL, in addition 
 ### Some skill's:
 
 <p align="left">
-  <a href="" target="_blank"><img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="" width="50" height="50"/></a>
-  <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="" width="50" height="50"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript Logo" width="50" height="50"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript Logo" width="50" height="50"/></a>
   <a href="https://nodejs.org/en/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node Logo" width="50" height="50"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React Logo" width="50" height="50"/></a>
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native Logo" width="50" height="50"/></a>
