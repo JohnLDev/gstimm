@@ -20,4 +20,4 @@ I am currently in the second year of **computer science** at UFPEL, in addition 
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native Logo" width="50" height="50"/></a>
 </p>
 
-[![Gabriel Timm's github stats](https://github-readme-stats.vercel.app/api?username=gstimm&show_icons=true&theme=dracula)](https://github.com/gstimm/github-readme-stats)
+[![Gabriel Timm's github stats](https://github-readme-stats.vercel.app/api?username=gstimm&show_icons=true)](https://github.com/gstimm/github-readme-stats)
