@@ -1,4 +1,4 @@
-## :wave: Hi! I'm Gabriel Timm.
+## :wave: Hey! I'm Gabriel Timm.
 
 I am currently in the second year of **computer science** at UFPEL, in addition to studying **web development** at GoStack Bootcamp (offered by RocketSeat). I also play CSGO in my spare time. :wink:
 
